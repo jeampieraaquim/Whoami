@@ -1,5 +1,18 @@
 # Whoami
-Me presento, soy Jeampier estoy estudiando Ciberseguridad. Estoy en proceso de formacion en Hacking Etico y Pentesting, en plataformas como:
-- Formacion: Davante (Hacking Etico), Try Hack Me (Jr Pentester Tester) y estoy en constante dessarollo y mejora.
-- Skills: Estoy familiarizado con Linux, Windows,  he hecho escaneos en entornos controlados con Nmap, Wireshark, Burp Suite.
-- Objetivos: Completar mi formación, crear mi portafolio para mostrar de lo que soy capaz y seguir creciendo laboralmente. 
+Me presento, soy *Jeampier* estoy estudiando Ciberseguridad 
+
+# # Formación:
+- Davante (Hacking Etico)
+- Try Hack Me (Jr Pentester Tester)
+- Estoy en constante desarrollo y mejora
+# #  Skills:
+- Sistemas: Linux, Windows
+- Herramientas: con Nmap, Wireshark, Burp Suite
+- Labs: TryHackme, Metasploitable, VMs
+# #  Objetivos:
+- Completar mi formación
+- Crear mi portafolio para mostrar de lo que soy capaz
+- Crecer profesionalmente 
+# # Contacto:
+[Linkedin] www.linkedin.com/in/jeampier-aquim-nuñez-b55878236
+[Gmail] jeampieraquim19@gmail.com
