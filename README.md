@@ -1,4 +1,4 @@
-# Whoami
+Whoami
 Me presento, soy Jeampier estoy estudiando Ciberseguridad. Estoy en proceso de formacion en Hacking Etico y Pentesting, en plataformas como:
 - Formacion: Davante (Hacking Etico), Try Hack Me (Jr Pentester Tester) y estoy en constante dessarollo y mejora.
 - Skills: Estoy familiarizado con Linux, Windows,  he hecho escaneos en entornos controlados con Nmap, Wireshark, Burp Suite.
